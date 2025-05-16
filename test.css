@@ -143,7 +143,7 @@ header {
   gap: 75px;
 
   h1 {
-    padding-left: 35rem;
+    padding-left: 38rem;
     padding-top: 8rem;
     font-size: 100px;
     font-family: "PT Sans", sans-serif;
@@ -152,35 +152,36 @@ header {
   }
   p {
     font-family: "PT Sans", sans-serif;
-    padding-left: 27rem;
-    padding-right: 7rem;
+    padding-left: 31rem;
+    padding-right: 22rem;
     line-height: 1rem;
     font-size: 18px;
-    width: 78%;
+    width: 100%;
+    padding-bottom: 21rem;
   }
+
 }
 .pgg {
   background-color: #fff;
   display: flex;
   width: 100%;
   position: relative;
-  min-height: 190vh;
+  min-height: 177vh;
   justify-content: flex-end;
   align-items: baseline;
-
   .hl {
     position: absolute;
     width: 502px;
-    top: -143px;
-    left: 920px;
+    top: -258px;
+    left: 938px;
     padding: 50px;
     padding-top: 37px;
     font-family: "PT Sans", sans-serif;
   }
   h2 {
     position: absolute;
-    top: 206px;
-    left: 1133px;
+    top: 100px;
+    left: 1141px;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -193,15 +194,15 @@ header {
   .hna {
     width: 30rem;
     position: absolute;
-    top: -101pc;
-    left: 524px;
+    top: -1629px;
+    left: 544px;
     padding: 39px;
   }
   h2 {
     position: absolute;
     color: #fff;
     top: -79pc;
-    left: 648px;
+    left: 679px;
     font-family: "PT Sans", sans-serif;
   }
 }
@@ -211,17 +212,17 @@ header {
   width: 100%;
   position: relative;
   .ph {
-    width: 496px;
+    width: 500px;
     position: absolute;
-    top: -101pc;
+    top: -1629px;
     padding: 48px;
-    left: 109px;
+    left: 127px;
     padding-top: 37px;
   }
   h2 {
     position: absolute;
-    top: -80pc;
-    left: 15pc;
+    top: -79pc;
+    left: 17pc;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -246,16 +247,16 @@ header {
   width: 100%;
   position: relative;
   .ph {
-    width: 498px;
+    width: 495px;
     padding: 49px;
     position: absolute;
-    top: -74pc;
-    left: 923px;
+    top: -1201px;
+    left: 943px;
   }
   h2 {
     position: absolute;
     top: -53pc;
-    left: 63pc;
+    left: 66pc;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -264,18 +265,18 @@ header {
   width: 100%;
   position: relative;
   .ph {
-    width: 463px;
+    width: 464px;
     height: 52vh;
     padding: 29px;
-    top: -73pc;
-    left: 533px;
+    top: -1180px;
+    left: 554px;
     padding-bottom: 0px;
     position: absolute;
   }
   h2 {
     position: absolute;
     top: -53pc;
-    left: 39pc;
+    left: 41pc;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -289,13 +290,14 @@ header {
     height: 59vh;
     padding: 41px;
     padding-bottom: -3px;
-    top: -74pc;
-    left: 110px;
+    top: -1192px;
+    left: 131px;
+    object-fit: cover;
   }
   h2 {
     position: absolute;
     top: -53pc;
-    left: 256px;
+    left: 266px;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -307,12 +309,12 @@ header {
     width: 405px;
     position: absolute;
     top: -740px;
-    left: 967px;
+    left: 994px;
   }
   h2 {
     position: absolute;
-    top: -403px;
-    left: 1097px;
+    top: -406px;
+    left: 1108px;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -325,12 +327,12 @@ header {
     position: absolute;
     top: -738px;
     height: 52vh;
-    left: 558px;
+    left: 585px;
   }
   h2 {
     position: absolute;
     top: -408px;
-    left: 681px;
+    left: 711px;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -339,16 +341,18 @@ header {
   position: relative;
   width: 100%;
   .ph {
-    width: 407px;
+    object-fit: cover;
+    width: 521px;
     position: absolute;
-    height: 52vh;
     top: -738px;
-    left: 146px;
+    left: 172px;
+    height: 52vh;
+    padding-right: 7rem;
   }
   h2 {
     position: absolute;
     top: -408px;
-    left: 270px;
+    left: 283px;
     color: #fff;
     font-family: "PT Sans", sans-serif;
   }
@@ -376,13 +380,6 @@ header {
   padding: 2rem 12rem;
   flex-direction: column;
   gap: 22px;
-  
-  
-  
-  
-  
-  
-  
   h4 {
     width: 100%;
     color: #fff;
